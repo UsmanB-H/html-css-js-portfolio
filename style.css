@@ -283,6 +283,7 @@ section {
 
 .about-pic {
     border-radius: 2rem;
+    height:70%;
 }
 
 .arrow {
@@ -443,4 +444,12 @@ body {
 
 .nav-links a {
     color: #333;
+}
+
+.gt-seal {
+    height: 2.5rem;
+}
+
+.sqlLogo {
+    height: 2.5rem;
 }
