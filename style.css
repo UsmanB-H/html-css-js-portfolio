@@ -453,3 +453,11 @@ body {
 .sqlLogo {
     height: 2.5rem;
 }
+
+.project-img {
+    border-radius: 2rem;
+    width: 90%; /* existing style */
+    height: 90%; /* existing style */
+    display: block; /* new style */
+    margin: auto; /* new style */
+  }
